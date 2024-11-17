@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+#grid-button {
+  margin: 10px;
+  padding: 5px;
+}
+
 #grid {
   width: 100vw;
   height: 100vh;
